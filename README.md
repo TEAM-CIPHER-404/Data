@@ -21,18 +21,6 @@ https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/device_model.txt
 
 
 
-
-
-
-
-
-
-
-
-
-
-</br>
-
 ##### 👀Repo Visitors 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/data/count.svg"/>
