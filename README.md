@@ -9,7 +9,12 @@ https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/api_user-agent.txt
 ```
 ##### Dalvik User-Agent 
 ```
-https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/dalvik-agent.txt
+https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/dalvik_user-agent.txt
+```
+
+##### Device Model 
+```
+https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/device_model.txt
 ```
 
 
@@ -26,10 +31,9 @@ https://raw.githubusercontent.com/TEAM-CIPHER-404/data/main/dalvik-agent.txt
 
 
 
+</br>
 
-
-##### 👀Repo Visitors
-
+##### 👀Repo Visitors 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/data/count.svg"/>
 </p>
